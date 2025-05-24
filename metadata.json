@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Art Generator",
+  "description": "A React application that uses Google's Imagen API to generate pixel art from text prompts. Users can enter a description, and the app will generate a unique pixel art image.",
+  "requestFramePermissions": []
+}
